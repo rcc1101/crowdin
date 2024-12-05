@@ -3,28 +3,12 @@
   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="it">
     <body>
       <trans-unit id="ngb.ravic6" datatype="html">
-        <source>i came to okhalama</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/src/abc16-config.ts</context>
-          <context context-type="linenumber">134</context>
-        </context-group>
-        <target state="needs-review-translation" state-qualifier="leveraged-mt">sono venuto a okhalama</target>
-      </trans-unit>
-      <trans-unit id="ngb.ravic6" datatype="html">
-        <source>i came to kenya</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/src/abc16-config.ts</context>
-          <context context-type="linenumber">123</context>
-        </context-group>
-        <target state="needs-review-translation" state-qualifier="leveraged-mt">sono venuto a okhalama</target>
-      </trans-unit>
-      <trans-unit id="ngb.ravic6" datatype="html">
         <source>i came to africa</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/abc16-config.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
-        <target state="needs-review-translation" state-qualifier="leveraged-mt">sono venuto a okhalama</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">sono venuto in africa</target>
       </trans-unit>
       <trans-unit id="ngb.ravic5" datatype="html">
         <source>i came to united states of am</source>
