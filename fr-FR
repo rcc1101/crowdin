@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="2" original="/translate-en_US.xlf" source-language="en" target-language="fr" datatype="plaintext" project-id="743121" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="2" resname="ngb.ravic5" approved="yes">
+        <source>i came to united states of am</source>
+        <target state="final">Je suis venu dans des États unis de am</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic5&#13;
+sourcefile: node_modules/src/abc15-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4" resname="ngb.ravic4" approved="yes">
+        <source>i came to school</source>
+        <target state="final">je suis venu à l'école</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic4&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6" resname="ngb.ravic3" approved="yes">
+        <source>camels bears live in firig zones</source>
+        <target state="final">les ours de chameaux vivent dans les zones de firig</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic3&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8" resname="ngb.ravic3" approved="yes">
+        <source>polar bears live in firig zones</source>
+        <target state="final">les ours polaires vivent dans les zones de firig</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic3&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10" resname="ngb.ravic2" approved="yes">
+        <source>The equator is too hot to live in</source>
+        <target state="final">L'équateur est trop chaud pour vivre dans</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic2&#13;
+sourcefile: node_modules/src/xyz-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12" resname="ngb.ravic" approved="yes">
+        <source>The tundras in antarctica are too frizid</source>
+        <target state="final">Les toundras de l'antarctica sont trop frizides</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic&#13;
+sourcefile: node_modules/src/xyz-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14" resname="ngb.alert.close" approved="yes">
+        <source>Close</source>
+        <target state="final">Fermer</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.alert.close&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16" resname="ngb.timepicker.HH" approved="yes">
+        <source>HH</source>
+        <target state="final">HH</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.HH&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="18" resname="ngb.toast.close-aria" approved="yes">
+        <source>Close</source>
+        <target state="final">Fermer</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.toast.close-aria&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="20" resname="ngb.pagination.first" approved="yes">
+        <source>««</source>
+        <target state="final">««</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.pagination.first&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22" resname="ngb.datepicker.select-month" approved="yes">
+        <source>Select month</source>
+        <target state="final">Sélectionnez le mois</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.datepicker.select-month&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="24" resname="ngb.datepicker.previous-month" approved="yes">
+        <source>Previous month</source>
+        <target state="final">Mois précédent</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.datepicker.previous-month&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="26" resname="ngb.carousel.slide-number" approved="yes">
+        <source>Slide
+                    &lt;x id=&quot;INTERPOLATION&quot;/&gt;
+                    of
+                    &lt;x id=&quot;INTERPOLATION_1&quot;/&gt;
+                </source>
+        <target state="final">Slide
+                    &lt;x id=&quot;INTERPOLATION&quot;/&gt;
+                    de
+                    &lt;x id=&quot;INTERPOLATION_1&quot;/&gt;
+                </target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.carousel.slide-number&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13&#13;
+Currently selected slide number read by screen reader</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="28" resname="ngb.timepicker.hours" approved="yes">
+        <source>Hours</source>
+        <target state="final">Heures</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.hours&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30" resname="ngb.timepicker.leapyear" approved="yes">
+        <source>leap year</source>
+        <target state="final">année bissextile</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.leapyear&#13;
+sourcefile: node_modules/src/ngb-zz.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
