@@ -1,5 +1,5 @@
 bundles:
   - 2
 files:
-  - source: '*translate**'
-    translation: '%locale_with_underscore%'
+  - source: '**translate**'
+    translation: '%file_name%-%locale_with_underscore%'
