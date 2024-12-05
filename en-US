@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="2" original="/translate-en_US.xlf" source-language="en" target-language="en" datatype="plaintext" project-id="743121" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="2" resname="ngb.ravic5">
+        <source>i came to united states of am</source>
+        <target state="needs-translation">i came to united states of am</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic5&#13;
+sourcefile: node_modules/src/abc15-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4" resname="ngb.ravic4">
+        <source>i came to school</source>
+        <target state="needs-translation">i came to school</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic4&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6" resname="ngb.ravic3">
+        <source>camels bears live in firig zones</source>
+        <target state="needs-translation">camels bears live in firig zones</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic3&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8" resname="ngb.ravic3">
+        <source>polar bears live in firig zones</source>
+        <target state="needs-translation">polar bears live in firig zones</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic3&#13;
+sourcefile: node_modules/src/abc1-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10" resname="ngb.ravic2">
+        <source>The equator is too hot to live in</source>
+        <target state="needs-translation">The equator is too hot to live in</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic2&#13;
+sourcefile: node_modules/src/xyz-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12" resname="ngb.ravic">
+        <source>The tundras in antarctica are too frizid</source>
+        <target state="needs-translation">The tundras in antarctica are too frizid</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.ravic&#13;
+sourcefile: node_modules/src/xyz-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14" resname="ngb.alert.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.alert.close&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16" resname="ngb.timepicker.HH">
+        <source>HH</source>
+        <target state="needs-translation">HH</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.HH&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="18" resname="ngb.toast.close-aria">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.toast.close-aria&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="20" resname="ngb.pagination.first">
+        <source>««</source>
+        <target state="needs-translation">««</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.pagination.first&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22" resname="ngb.datepicker.select-month">
+        <source>Select month</source>
+        <target state="needs-translation">Select month</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.datepicker.select-month&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="24" resname="ngb.datepicker.previous-month">
+        <source>Previous month</source>
+        <target state="needs-translation">Previous month</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.datepicker.previous-month&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="26" resname="ngb.carousel.slide-number">
+        <source>Slide
+                    &lt;x id=&quot;INTERPOLATION&quot;/&gt;
+                    of
+                    &lt;x id=&quot;INTERPOLATION_1&quot;/&gt;
+                </source>
+        <target state="needs-translation">Slide
+                    &lt;x id=&quot;INTERPOLATION&quot;/&gt;
+                    of
+                    &lt;x id=&quot;INTERPOLATION_1&quot;/&gt;
+                </target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.carousel.slide-number&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13&#13;
+Currently selected slide number read by screen reader</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="28" resname="ngb.timepicker.hours">
+        <source>Hours</source>
+        <target state="needs-translation">Hours</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.hours&#13;
+sourcefile: node_modules/src/ngb-config.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30" resname="ngb.timepicker.leapyear">
+        <source>leap year</source>
+        <target state="needs-translation">leap year</target>
+        <context-group purpose="information">
+          <context context-type="source">ng2.template
+ngb.timepicker.leapyear&#13;
+sourcefile: node_modules/src/ngb-zz.ts&#13;
+linenumber: 13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
