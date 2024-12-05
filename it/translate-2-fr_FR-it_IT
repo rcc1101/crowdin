@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="fr">
+    <body>
+      <trans-unit id="ngb.ravic6" datatype="html" approved="yes">
+        <source>i came to africa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc16-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">je suis venu en Afrique</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic5" datatype="html" approved="yes">
+        <source>i came to united states of am</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc15-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Je suis venu dans des États unis de am</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic4" datatype="html" approved="yes">
+        <source>i came to school</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">je suis venu à l'école</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic3" datatype="html" approved="yes">
+        <source>camels bears live in firig zones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">les ours de chameaux vivent dans les zones de firig</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic3" datatype="html" approved="yes">
+        <source>polar bears live in firig zones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">les ours de chameaux vivent dans les zones de firig</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic2" datatype="html" approved="yes">
+        <source>The equator is too hot to live in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/xyz-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">L'équateur est trop chaud pour vivre dans</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic" datatype="html" approved="yes">
+        <source>The tundras in antarctica are too frizid</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/xyz-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Les toundras de l'antarctica sont trop frizides</target>
+      </trans-unit>
+      <trans-unit id="ngb.alert.close" datatype="html" approved="yes">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Fermer</target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html" approved="yes">
+        <source>HH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">HH</target>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html" approved="yes">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Fermer</target>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html" approved="yes">
+        <source>««</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">««</target>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html" approved="yes">
+        <source>Select month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Sélectionnez le mois</target>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html" approved="yes">
+        <source>Previous month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Mois précédent</target>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source>
+          <x id="INTERPOLATION"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.slide-number" datatype="html" approved="yes">
+        <source>Slide
+                    <x id="INTERPOLATION"/>
+                    of
+                    <x id="INTERPOLATION_1"/>
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Currently selected slide number read by screen reader</note>
+        <target state="final">Slide
+                    <x id="INTERPOLATION"/>
+                    de
+                    <x id="INTERPOLATION_1"/>
+                </target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html" approved="yes">
+        <source>Hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">Heures</target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.leapyear" datatype="html" approved="yes">
+        <source>leap year</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-zz.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="final">année bissextile</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
