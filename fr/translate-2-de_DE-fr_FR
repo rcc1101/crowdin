@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="de">
+    <body>
+      <trans-unit id="ngb.ravic6" datatype="html">
+        <source>i came to africa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc16-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">ich kam nach Afrika</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic5" datatype="html">
+        <source>i came to united states of am</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc15-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">ich kam zu vereinten Staaten von am</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic4" datatype="html">
+        <source>i came to school</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">ich kam zur Schule</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic3" datatype="html">
+        <source>camels bears live in firig zones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">camels Bären leben in firig Zonen</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic3" datatype="html">
+        <source>polar bears live in firig zones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/abc1-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">camels Bären leben in firig Zonen</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic2" datatype="html">
+        <source>The equator is too hot to live in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/xyz-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Der Äquator ist zu heiß um in zu leben</target>
+      </trans-unit>
+      <trans-unit id="ngb.ravic" datatype="html">
+        <source>The tundras in antarctica are too frizid</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/xyz-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Die Tundras in der Antarktis sind zu frizid</target>
+      </trans-unit>
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Schließen</target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">HH</target>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Schließen</target>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">««</target>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Monat auswählen</target>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Vorheriger Monat</target>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source>
+          <x id="INTERPOLATION"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.slide-number" datatype="html">
+        <source>Slide
+                    <x id="INTERPOLATION"/>
+                    of
+                    <x id="INTERPOLATION_1"/>
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Currently selected slide number read by screen reader</note>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Folie
+                    <x id="INTERPOLATION"/>
+
+                    <x id="INTERPOLATION_1"/>
+                </target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Stunden</target>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.leapyear" datatype="html">
+        <source>leap year</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-zz.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Schaltjahr</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
